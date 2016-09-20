@@ -1,0 +1,30 @@
+
+
+/* jumbotron coloring*/
+
+.jumbotron,.panel-heading{
+	background-color:black;color:white;
+
+}
+
+
+h1,h3{
+	font-family: 'Poiret One', cursive;
+}
+
+body{
+	 background-image: url("../images/wall.jpg");
+	 color:white;
+
+}
+.panel-body{
+	background-image: url("../images/wall2.jpg");
+}
+
+tr:hover{
+	 
+	 background-color:rgba(0, 0, 0, 0.5);color:rgba(255, 0, 0, 0.5);
+	 font-family: "Times New Roman", Georgia, Serif;
+	 font-weight:300;
+	 font-size:30px;
+	}
